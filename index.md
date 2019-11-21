@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio.  I've selected a few Repositories that highlight
 Project/Repo Name | Python | R | SQL | Machine Learning | Statistical Analysis | Data Management
 --- | --- | --- | --- | --- | --- | ---
 ML_in_H2O | <img src="images/pip3.png?raw=true" sizes="(min-width: 70px)"/> | | | <img src="images/pip3.png?raw=true"/> | | 
-No_Show | | <img src="images/pip3.png?raw=true" width: 70px/> | | <img src="images/pip3.png?raw=true"/> | <img src="images/pip2.png?raw=true"/> | <img src="images/pip2.png?raw=true"/> 
+No_Show | | <img src="images/pip3.png?raw=true" sizes="(min-width: 70px)"/> | | <img src="images/pip3.png?raw=true"/> | <img src="images/pip2.png?raw=true"/> | <img src="images/pip2.png?raw=true"/> 
 Cancer_Risk | | | <img src="images/pip3.png?raw=true"/> | <img src="images/pip1.png?raw=true"/> | <img src="images/pip3.png?raw=true"/>
 
 
