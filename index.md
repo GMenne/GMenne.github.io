@@ -2,7 +2,7 @@
 
 ---
 
-Welcome to my GitHub portfolio.  I've selected a few Repositories that highlight work I've done.  Use the table below to determine the technical skills that comprise each project.
+Welcome to my GitHub portfolio.  I've selected a few Repositories that highlight work I've done.  Use the table below to determine the technical skills that comprise each project.  Each project and skill combination has a bar ranking from zero (blank) to 3 (max rank).  A rank of 3 indicates that skill is highly utilized, while a blank cell indicates that skill in not utilized in that project.
 
 Project/Repo Name | Python | R | SQL | Machine Learning | Statistical Analysis | Data Management
 --- | --- | --- | --- | --- | --- | ---
