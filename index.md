@@ -14,7 +14,7 @@ Cancer_Risk | | | <img src="images/pip3.png?raw=true"/> | <img src="images/pip1.
 
 
 Project/Repo Name | Summary
---- | ---
+--- | ---------------
 ML_in_H2O | Applies a variety of machine learning techniques to a benchmark dataset.
 No_Show | Predicts patient no shows for clinic appointments.
 Cancer_Risk | Predicts patients at risk for colon cancer using blood test (CBC) results.
