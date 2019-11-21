@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio.  I've selected a few Repositories that highlight
 [Project 1 Title](/sample_page)
 
 Project/Repo Name | Python | R | Machine Learning | Statistical Analysis | Data Management
------------- | ------------- | ------------
+--- | --- | --- | --- | --- | ---
 Cancer_Risk | | <img src="images/pip.jpg?raw=true"/> <img src="images/pip.jpg?raw=true"/> <img src="images/pip.jpg?raw=true"/> | <img src="images/pip.jpg?raw=true"/> <img src="images/pip.jpg?raw=true"/> <img src="images/pip.jpg?raw=true"/> | <img src="images/pip.jpg?raw=true"/> <img src="images/pip.jpg?raw=true"/> <img src="images/pip.jpg?raw=true"/>|<img src="images/pip.jpg?raw=true"/> <img src="images/pip.jpg?raw=true"/>
 No_Show | R, Machine Learning | Predicts patient no shows for clinic appointments.
 Predictive_Modeling | R, Statistical Analysis | Demonstrates a variety of statistical prediction techniques on a benchmark dataset.
