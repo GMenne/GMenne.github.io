@@ -6,7 +6,6 @@
 Welcome to my GitHub portfolio.  I've selected a few Repositories that highlight work I've done.  The table indicates which technical skills comprise each project.  Each project and skill combination has a bar ranking from zero (blank) to 3 (max rank).  A rank of 3 indicates that skill is highly utilized, while a blank cell indicates that skill is not utilized in that project.
 
 <br>
-<br>
 
 Project/Repo Name | Python |      R      | SQL | Machine Learning | Statistical Analysis | Data Management
 --- | --- | --- | --- | --- | --- | ---
@@ -14,7 +13,6 @@ ML_in_H2O | <img src="images/pip3.png?raw=true"/> | | | <img src="images/pip3.pn
 No_Show | | <img src="images/pip3.png?raw=true"  style="min-width:100px"/> | | <img src="images/pip3.png?raw=true"/> | <img src="images/pip2.png?raw=true"/> | <img src="images/pip2.png?raw=true"/> 
 Cancer_Risk | | | <img src="images/pip3.png?raw=true"/> | <img src="images/pip1.png?raw=true"/> | <img src="images/pip3.png?raw=true"/>
 
-<br>
 <br>
 
 Project/Repo Name | Summary
