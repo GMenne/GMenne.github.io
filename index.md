@@ -2,14 +2,13 @@
 
 ---
 
-### What are you interested in?
-Welcome to my GitHub portfolio.  I've selected a few Repositories that highlight some of the work I've done.  Use the table below to determine the technical skills that comprise each project.
+Welcome to my GitHub portfolio.  I've selected a few Repositories that highlight work I've done.  Use the table below to determine the technical skills that comprise each project.
 
 [Project 1 Title](/sample_page)
 
 Project/Repo Name | Utilizes | Summary
 ------------ | ------------- | ------------
-Cancer_Risk | SSIS, Statistical Analysis, SQL | Determines patients at risk for colon cancer based upon blood test (CBC) results.
+Cancer_Risk | <img src="images/pip.jpg?raw=true"/> | Determines patients at risk for colon cancer based upon blood test (CBC) results.
 No_Show | R, Machine Learning | Predicts patient no shows for clinic appointments.
 Predictive_Modeling | R, Statistical Analysis | Demonstrates a variety of statistical prediction techniques on a benchmark dataset.
 ML_in_H2O | Python, H2O, Machine Learning | Applies a variety of machine learning techniques to a benchmark dataset.
