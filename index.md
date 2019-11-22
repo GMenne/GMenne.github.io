@@ -20,7 +20,7 @@ Project/Repo Name | Summary
 ML_in_H2O | Applies a variety of machine learning techniques to a benchmark dataset.
 No_Show | Predicts patient no shows for clinic appointments.
 Cancer_Risk | Predicts patients at risk for colon cancer using blood test (CBC) results.
-Predictive_Modeling | R, Statistical Analysis | Demonstrates a variety of statistical prediction techniques on a benchmark dataset.
+Predictive_Modeling | Demonstrates a variety of statistical prediction techniques on a benchmark dataset.
 
 
 ---
