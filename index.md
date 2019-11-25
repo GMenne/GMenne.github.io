@@ -10,8 +10,8 @@ Welcome to my GitHub portfolio.  I've selected a few Repositories that highlight
 Project/Repo Name | Python |      R      | SQL | Machine Learning | Statistical Analysis | Data Management
 --- | --- | --- | --- | --- | --- | ---
 ML_in_H2O | <img src="images/pip3.png?raw=true" style="min-width:55px"/> | | | <img src="images/pip3.png?raw=true" style="min-width:55px"/> | | 
-No_Show | | <img src="images/pip3.png?raw=true" style="min-width:55px"/> | | <img src="images/pip3.png?raw=true" style="min-width:55px"/> | <img src="images/pip2.png?raw=true" style="min-width:36px"/> | <img src="images/pip2.png?raw=true" style="min-width:36px"/> 
-Cancer_Risk | | | <img src="images/pip3.png?raw=true" style="min-width:55px"/> | <img src="images/pip1.png?raw=true" style="min-width:17px"/> | <img src="images/pip3.png?raw=true" style="min-width:55px"/>
+No_Show | | <img src="images/pip3.png?raw=true" style="min-width:55px"/> | | <img src="images/pip3.png?raw=true" style="min-width:55px"/> | <img src="images/pip2.png?raw=true" style="min-width:55px"/> | <img src="images/pip2.png?raw=true" style="min-width:55px"/> 
+Cancer_Risk | | | <img src="images/pip3.png?raw=true" style="min-width:55px"/> | <img src="images/pip1.png?raw=true" style="min-width:55px"/> | <img src="images/pip3.png?raw=true" style="min-width:55px"/>
 
 <br>
 
